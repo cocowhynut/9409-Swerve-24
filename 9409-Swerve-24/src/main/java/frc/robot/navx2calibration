@@ -1,0 +1,24 @@
+https://pdocs.kauailabs.com/navx-mxp/software/navx-mxp-ui/
+^^
+NAVXUI
+
+The navXUI user interface application provides a simple way to visualize the data provided by any navX-sensor.
+
+
+RECALIBRATION:
+
+Gyroscopes are sensitive to ambient temperature, so it is imperative that you recalibrate them upon reception AND at events. NavX instructions are as follows.
+
+Place them NavX on a still platform parallel to the earth's surface (use a level!).
+Press and hold the CAL button for at least 10 seconds.
+When you release the CAL button ensure that the CAL led flashes briefly.
+Press the RESET button.
+Wait up to 15 seconds.
+yaw accuracy may be diminished until the next On-the-fly Gyro calibration completes. (which means your first autonomous may not act right!)
+
+
+PREFERED COMMUNUCATION METHOD:
+
+NavX SPI communication over the roboRIO MXP. This is the recommended method of communicating with NavX devices.
+
+ALAKASIZ AMA SWERVE MODULLERININ CARKLARINI YAGLA !!

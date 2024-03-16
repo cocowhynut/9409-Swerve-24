@@ -1,0 +1,14 @@
+Values You Must Know About Your Robot:
+
+Drive Gear Ratio        The Drive Gear Ratio is the ratio describing how many times the drive motor shaft must rotate for the wheel to 
+                        complete one rotation. This is usually available on the website of the Swerve Module purchased.
+
+= 6.75:1
+
+---
+Stearing Gear Ratio     The Steering Gear Ratio is the ratio describing how many times the steering motor shaf1t must rotate for the wheel
+                        to complete one spin. This is usally available on the website of the Swerve Module purchased.
+
+= 21.4285714286:1
+
+---
